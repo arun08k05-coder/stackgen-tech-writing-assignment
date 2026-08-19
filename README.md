@@ -2,7 +2,7 @@
 
 This repository contains my answers for the StackGen technical writing assignment.
 
-## Documentation
+## Documentation Tasks
 
 1. [Task 1 - StackSync AI Connector](docs/task-1-stacksync-ai-connector.md)
 
