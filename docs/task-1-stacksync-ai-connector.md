@@ -27,7 +27,8 @@ To use StackSync AI Connector:
 4. Open StackBuilder to monitor synchronization activity.
 5. Select the sync action to start the process.
 
-In the upcoming release, the synchronization action button label changes from **Sync Now** to **Run AI Sync**.
+> [!NOTE]
+> In the upcoming release, the synchronization action button label changes from **Sync Now** to **Run AI Sync**.
 
 ### Required Metadata
 
@@ -116,9 +117,10 @@ The following assumptions were made based on the available Slack discussion:
 
 ## Questions for PM or Dev Team
 
-1. Where can users access StackSync AI Connector logs, and what log details are available for failed sync operations?
-2. What is the complete setup process for configuring the async webhook trigger between appStack and Cloud2Code?
-3. What are the valid values and expected formats for the `ai_index` and `clusters` fields in `metadata.json`?
+1. Where can users access StackSync AI Connector logs?
+2. What log details are available for failed sync operations?
+3. What is the complete setup process for configuring the async webhook trigger between appStack and Cloud2Code?
+4. What are the valid values and expected formats for the `ai_index` and `clusters` fields in `metadata.json`?
 
 ```
 ```
