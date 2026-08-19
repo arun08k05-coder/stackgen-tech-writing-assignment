@@ -103,8 +103,6 @@ Example:
 
 The location and access method for StackSync AI Connector logs are currently unknown. Refer to the confirmed logging documentation when available.
 
----
-
 ## Assumptions
 
 The following assumptions were made based on the available Slack discussion:
